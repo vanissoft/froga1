@@ -1,0 +1,107 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/5235351652_a07c35585f_o.jpg"
+  bg_overlay : true
+  title : "Iniciativas para una sociedad <br/> más justa y libre."
+  content : "(*) SDE Scabelum Donostia Elkartea es una asociación sin ánimo de lucro"
+  button:
+    enable : true
+    label : "Ver actividades"
+    link : "blog"
+
+############################# About #################################
+about:
+  enable : true
+  title : "Sobre nosotros"
+  description : "Somos una asociación sin ánimo de lucro formada por voluntarias"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+            anim id."
+  image : "images/flowers.png"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/Aizkorri_ekialdera.JPG"
+  title : "Estatutos"
+  content : "
+  Difundir y defender los derechos de los consumidores y usuarios, en cuanto son personas que compran o utilizan bienes para su uso individual, familiar o colectivo y resultan afectados por los diferentes aspectos de la vida social que inciden directa o indirectamente en el consumidor o usuario.
+
+
+  Promover por todos los medios a su alcance la educación del consumidor y el usuario, de modo que sea capaz y esté preparado desde la infancia y la juventud para actuar como consumidor lúcido al efectuar la elección entre los bienes y servicios, públicos y privados con pleno conocimiento de sus deberes, derechos y responsabilidades.
+  "
+  button:
+    enable : true
+    label : "View Works"
+    link : "project"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "Historias plandémicas."
+  content : "Envíanos tu caso y trataremos de ofrecerte la mejor alternativa."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Hechos"
+  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
+          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Demandas iniciadas"
+      count : "23"
+      
+    # funfacts item loop
+    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Demandas en curso"
+      count : "45"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Asociados"
+      count : "125"
+      
+    # funfacts item loop
+    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Personas representadas"
+      count : "200"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Raymond Roy"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Randi Renin"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
