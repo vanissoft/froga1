@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://froga1.onrender.com/service"
+baseURL = "https://froga1.onrender.com"
 title = "Scabelum | Lagunak"
 theme = "airspace-hugo"
 # post pagination
