@@ -1,5 +1,5 @@
 ---
-title: "Así se compra el "consenso científico médico""
+title: "Así se compra el 'consenso científico médico'"
 date: 2020-10-29
 author: Luis de Miguel
 image : "images/blog/2020-10-29_así-se-compra-el-consenso-científico-médico_0.jpg"
