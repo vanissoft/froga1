@@ -6,7 +6,7 @@ image : "images/blog/2020-11-03_comunicado-comusav_0.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["categoria_1"]
 tags: ["Blog"]
-description: "  <span class="vkIF2 public-DraftStyleDefault-ltr">CARTA DIVULGATIVA</span>    <span class="vkIF2 pu..."
+description: "CARTA DIVULGATIVA..."
 draft: false
 type: "post"
 ---

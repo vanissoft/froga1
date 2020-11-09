@@ -6,7 +6,7 @@ image : "images/blog/2020-11-01_primer-directo-de-prueba-1_0.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["categoria_1"]
 tags: ["Blog"]
-description: "  <span class="vkIF2 public-DraftStyleDefault-ltr">Esta semana terminaremos de sincronizar el canal ..."
+description: "Esta semana terminaremos de sincronizar el canal ..."
 draft: false
 type: "post"
 ---

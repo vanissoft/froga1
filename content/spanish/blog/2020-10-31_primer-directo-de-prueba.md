@@ -6,7 +6,7 @@ image : "images/blog/2020-10-31_primer-directo-de-prueba_0.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["categoria_1"]
 tags: ["Blog"]
-description: "  <span class="vkIF2 public-DraftStyleDefault-ltr"><a class="_2qJYG blog-link-hashtag-color _2xVcV" ..."
+description: "  "
 draft: false
 type: "post"
 ---

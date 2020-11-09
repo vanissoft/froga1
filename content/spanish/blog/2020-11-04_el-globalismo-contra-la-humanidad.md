@@ -6,7 +6,7 @@ image : "images/blog/2020-11-04_el-globalismo-contra-la-humanidad_0.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["categoria_1"]
 tags: ["Blog"]
-description: "  <span class="vkIF2 public-DraftStyleDefault-ltr">EDITORIAL 3-11-20</span>    <span class="vkIF2 pu..."
+description: "EDITORIAL 3-11-20"
 draft: false
 type: "post"
 ---
